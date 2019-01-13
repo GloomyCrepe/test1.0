@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "mdx-deck deck.mdx"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "mdx-deck": "^1.6.7"
+  }
+}
